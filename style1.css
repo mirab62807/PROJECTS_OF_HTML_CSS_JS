@@ -1,0 +1,15 @@
+.body1{
+    background: #22aa00;
+    text-align: center;
+  }
+  
+  .container{
+    border: #eb4034 solid 5px;
+  }
+  
+  .form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
